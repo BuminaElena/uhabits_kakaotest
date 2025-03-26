@@ -31,6 +31,7 @@ import org.isoron.uhabits.core.ui.screens.habits.list.HabitCardListCache
 import org.isoron.uhabits.core.utils.DateUtils.Companion.getToday
 import org.isoron.uhabits.inject.HabitsApplicationComponent
 import org.junit.After
+import org.junit.AfterClass
 import org.junit.Before
 
 open class BaseUserInterfaceTest {

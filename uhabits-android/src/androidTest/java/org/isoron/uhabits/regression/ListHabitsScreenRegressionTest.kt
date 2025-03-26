@@ -50,7 +50,7 @@ import org.isoron.uhabits.core.models.Entry.Companion.YES_MANUAL
 import org.junit.Test
 
 @LargeTest
-class ListHabitsRegressionTest : BaseUserInterfaceTest() {
+class ListHabitsScreenRegressionTest : BaseUserInterfaceTest() {
     /**
      * https://github.com/iSoron/uhabits/issues/539
      */

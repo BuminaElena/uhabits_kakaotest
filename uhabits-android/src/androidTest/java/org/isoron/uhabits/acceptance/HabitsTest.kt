@@ -74,7 +74,7 @@ class HabitsTest : BaseUserInterfaceTest() {
         verifyShowsScreen(LIST_HABITS)
         clickMenu(ADD)
         verifyShowsScreen(SELECT_HABIT_TYPE)
-        clickText("Yes or No")
+        clickText("Да или Нет")
         verifyShowsScreen(EDIT_HABIT)
         val testName = "Hello world"
         typeName(testName)
